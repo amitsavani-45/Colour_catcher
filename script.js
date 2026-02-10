@@ -53,7 +53,7 @@ function startGame(){
         }
     },1000);
 
-
+                                                                                                                                                                                                                                                                                                                                                                                                 
 }
 let darkButton=document.getElementById("dark");
 let lightButton=document.getElementById("light");
